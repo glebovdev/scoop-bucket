@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/glebovdev/somafm-cli/releases/download/v0.1.0/somafm_0.1.0_windows_amd64.zip",
+            "bin": [
+                "somafm.exe"
+            ],
+            "hash": "d88993cea0302e210addbc762ee330f8eaf68bc23cde497a3a6afd7ce8f45396"
+        }
+    },
+    "homepage": "https://github.com/glebovdev/somafm-cli",
+    "license": "MIT",
+    "description": "Terminal-based music player for SomaFM radio stations"
+}
