@@ -1,12 +1,12 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/glebovdev/somafm-cli/releases/download/v0.2.0/somafm_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/glebovdev/somafm-cli/releases/download/v0.2.1/somafm_0.2.1_windows_amd64.zip",
             "bin": [
                 "somafm.exe"
             ],
-            "hash": "ecdbae3c7a1404ca8eb4d631e3fe259923b0f0fa2c5280cb0d7c1f6704ae3869"
+            "hash": "b24bb6fc45b3301baa26445497b1b7e38e39335cef94b3c3ed8e8e52a0aa29ca"
         }
     },
     "homepage": "https://github.com/glebovdev/somafm-cli",
